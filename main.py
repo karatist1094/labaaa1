@@ -10,3 +10,7 @@ def parntners_func():
     return "hello"
 
 
+def func2():
+    return "bye bye"
+
+
