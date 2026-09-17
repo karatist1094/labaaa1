@@ -1,2 +1,5 @@
-print("hello world")
-print("hello laba 1")
+print("dev things")
+
+
+
+print("dev 2 commit")
