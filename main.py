@@ -14,3 +14,6 @@ def func2():
     return "bye bye"
 
 
+def func3():
+    return "Good bye"
+
