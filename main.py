@@ -17,3 +17,5 @@ def func2():
 def func3():
     return "Good bye"
 
+def func4():
+    return "Hi"
